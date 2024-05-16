@@ -1,0 +1,3 @@
+/Users/nataliemanukyan/Desktop/Prog_tech_hw/7.Composite/build/CMakeFiles/ShapesQtApp.dir
+/Users/nataliemanukyan/Desktop/Prog_tech_hw/7.Composite/build/CMakeFiles/edit_cache.dir
+/Users/nataliemanukyan/Desktop/Prog_tech_hw/7.Composite/build/CMakeFiles/rebuild_cache.dir
